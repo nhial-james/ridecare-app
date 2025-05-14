@@ -26,13 +26,13 @@ Crafted with attention to detail using Figma to ensure a visually appealing and 
 ## 📸 App Screenshots
 
 ### 🏠 Home Screen
-![Home Screen]([RideCare/Home Screen.png](https://github.com/nhial-james/ridecare-app/blob/main/RideCare/Home%20Screen.png))
+([RideCare/Home Screen.png](https://github.com/nhial-james/ridecare-app/blob/main/RideCare/Home%20Screen.png))
 
 ### 🔐 Login Screen
-![Login Screen]([./screenshots/login-screen.png](https://github.com/nhial-james/ridecare-app/blob/main/RideCare/Login.png))
+([./screenshots/login-screen.png](https://github.com/nhial-james/ridecare-app/blob/main/RideCare/Login.png))
 
 ### 📍 Booking Flow
-![Booking Flow]([./screenshots/booking-flow.png](https://github.com/nhial-james/ridecare-app/blob/main/RideCare/Confirm%20Ride.png))
+([./screenshots/booking-flow.png](https://github.com/nhial-james/ridecare-app/blob/main/RideCare/Confirm%20Ride.png))
 
 ---
 
