@@ -19,7 +19,7 @@ RideCare is a modern ride-hailing application designed to offer a seamless, safe
 
 Crafted with attention to detail using Figma to ensure a visually appealing and highly usable interface.
 
-> 🔗 [Click here to view the Figma design]([https://www.figma.com/file/your-design-link](https://www.figma.com/design/z8lfekLCLcS7Y3SJKdTHwv/RideCare?node-id=0-1&t=sUACspm2DZFdHnv0-1))
+> 🔗 [Click here to view the Figma design]([https://www.figma.com/design/z8lfekLCLcS7Y3SJKdTHwv/RideCare?node-id=0-1&t=sUACspm2DZFdHnv0-1])
 
 ---
 
