@@ -44,6 +44,3 @@ Crafted with attention to detail using Figma to ensure a visually appealing and 
 - **Figma** – UI/UX Design
 
 ---
-
-## 📁 Folder Structure
-
